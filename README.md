@@ -1,7 +1,7 @@
 # Freelance Photographer
 
 <h1 align = center>
-<img src= https://github.com/Afnanahmed09/project4/blob/master/pic/logo-aa.png>
+<img src= file:///Users/afnanmasrahi/Desktop/logo-aa.png.png>
 </h1>
 
 
@@ -59,8 +59,10 @@ The project took 4 days to develop starting from Sunday 22 December – Wednesda
 -	Add more functionality such as (Rating, Personal comment about something, preview of their work/gameplay)
 -	Let the user change the design by adding some options for them.
 
-## By Leena
 
 
-# Gametracker-app
+
+
+
+# Project4
 
