@@ -1,7 +1,7 @@
 # Freelance Photographer
 
 <h1 align = center>
-<img src= file:///Users/afnanmasrahi/Desktop/logo-aa.png.png>
+<img src= file:///Users/afnanmasrahi/Desktop/logo-aa.png>
 </h1>
 
 
