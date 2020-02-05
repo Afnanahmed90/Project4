@@ -1,4 +1,4 @@
-# Lilghost Freelance Photographer
+# Lilghost Freelance Photographer 👻
 
 <h1 align = center>
 <img src= https://github.com/LeenaYaseen/connect4/blob/master/pic/logo-aa.png>
