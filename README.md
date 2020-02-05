@@ -25,7 +25,7 @@ Freelance photography is the taking of photographs as a contract or self-employe
 ---
 
 # Wireframe
-
+<img src="img11.png>
 ![](/img11/.png)
 ![](/img/1.png)
 ![](/img/3.png)
