@@ -1,7 +1,8 @@
 # Freelance Photographer
 
 <h1 align = center>
-<img src= file:///Users/afnanmasrahi/Desktop/logo-aa.png>
+<img src= https://github.com/LeenaYaseen/connect4/blob/master/pic/logo-aa.png>
+
 </h1>
 
 
