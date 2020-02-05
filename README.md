@@ -1,7 +1,9 @@
 # Lilghost Freelance Photographer 👻
+# Project #4: Full Stack Application
 
 <h1 align = center>
 <img src= https://github.com/LeenaYaseen/connect4/blob/master/pic/logo-aa.png>
+ 
 
 </h1>
 
@@ -12,26 +14,33 @@ Freelance photography is the taking of photographs as a contract or self-employe
 # List of technologies used
 
 ## Software:
--	Express
--	React
--	reactstrap
+-	Express:
+-	React:
+-	reactstrap:
 -	react bootstrap
 - MDB bootstrap
 - Heroku
 - mongoose DB
 
+---
+
+# Wireframe
+
+![](/img11/.png)
+![](/img/1.png)
+![](/img/3.png)
 
 # User Stories
 
 -	User is able to sign up/sign in/sing out
--	User is able to change password
--	User is able to apply CRUD (Create-Read-Update-Destroy) resources
-- User is not able to apply any CRUD functionality on other users'
+-	User is able to apply creat a new post 
+- User is able to accep an offer.
+
 
 
 # Development process and logic
 
-The project took 4 days to develop starting from Sunday 22 December – Wednesday 25 December.
+The project took 2 weeks to develop. 
 <br>
 
 -	Started by creating a database on mySQL for the application.
