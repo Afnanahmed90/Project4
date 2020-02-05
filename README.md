@@ -1,69 +1,66 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Freelance Photographer
 
-## Available Scripts
+<h1 align = center>
+<img src= https://github.com/Afnanahmed09/project4/blob/master/pic/logo-aa.png>
+</h1>
 
-In the project directory, you can run:
 
-### `yarn start`
+Freelance photography is the taking of photographs as a contract or self-employed photographer. You usually work under contracts specific to each of your clients. As a freelance photographer, you market yourself through professional portfolios, websites, and social media to find potential clients.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+# List of technologies used
 
-### `yarn test`
+## Software:
+-	Express
+-	React
+-	reactstrap
+-	react bootstrap
+- MDB bootstrap
+- Heroku
+- mongoose DB
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+# User Stories
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-	User is able to sign up/sign in/sing out
+-	User is able to change password
+-	User is able to apply CRUD (Create-Read-Update-Destroy) resources
+- User is not able to apply any CRUD functionality on other users'
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Development process and logic
 
-### `yarn eject`
+The project took 4 days to develop starting from Sunday 22 December – Wednesday 25 December.
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+-	Started by creating a database on mySQL for the application.
+- Created a one-to-many relationship between the two tables (Company and Game)
+-	Added gem file `Gem file devise`.
+- Generated file and added a user table.
+-	Created a one-to-many relationship between the two tables (User and Company)
+-	Created routes for the HTML files.
+- Generated controllers for Company,User, and Game.
+- Generated `.html` files in views folder for both Company and Game.
+- Modified code to add functionality of CRUD.
+- Styled `.html` files by adding a gem file `gem 'bootstrap', '~> 4.4.1'`.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# List unsolved problems and future plans
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Unsolved Problems:
+-	Routes are not exactly redirecting correctly.
+- No Restrications in the app. , anyone can add anything.
+- Could not implement a many-to-many relationship.
 
-## Learn More
+## Future additions:
+-	Add restrications and alerts on the app.
+-	Edit the user page using bootstrap.
+-	Make the application more smoother.
+-	Add more functionality such as (Rating, Personal comment about something, preview of their work/gameplay)
+-	Let the user change the design by adding some options for them.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## By Leena
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# Gametracker-app
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# Project4
